@@ -1,0 +1,8 @@
+Ingrear a Servidor Discord
+
+1. Ingresar a tu cuenta de discord en la URL https://discord.com/login
+2. En la barra lateral izquierda selecionar el boton con el simbolo de sumar (+)
+3. Selecionar el boton inferior que dice "Unete al un servidor"
+4. Ingresar el url de la invitacion en el input "enlace de invitacion"
+5. Dar click en boton "Unirse al servidor"
+

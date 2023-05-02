@@ -1,0 +1,15 @@
+Creacion de cuenta Dockerhub
+
+1. Ingresar a la url de https://hub.docker.com/
+2. Dar click en boton "register"
+3. Ingresar un nombre de usuario
+4. Ingresar un correo electronico
+5. Ingesar password de al menos 9 caracteres
+6. Resolver el catcha
+7. Dar click en el boton de "Sign Up"
+8. Ingresar correo o usuario y dar click en continue
+9. Ingresar contraseña y dar click en continue
+10. Selecionar el tipo de cuenta en este caso gratuita
+11. Confirmar correo elctronico en el link recibido a la cuenta de correo
+
+
