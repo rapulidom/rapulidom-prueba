@@ -23,7 +23,7 @@
 
     ![image](https://user-images.githubusercontent.com/132395666/236006164-c0a5d737-2468-4a4f-824b-ab453ba94491.png)
 
-6. Ingresar **y** si deseas recibir correos para actualizaciones de productos o **n** si no, después dar click en **continue**.
+6. Ingresar **"y"** si deseas recibir correos para actualizaciones de productos o **"n"** si no deseas, después dar click en **continue**.
     
     ![image](https://user-images.githubusercontent.com/132395666/236006633-e91def2e-b55f-48b5-97fe-96437dbb7491.png)
 
