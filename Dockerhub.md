@@ -2,7 +2,7 @@
 
 1. Ingresar a la url de https://hub.docker.com/
 
-
+<img src="https://user-images.githubusercontent.com/132395666/235977234-1aadfd7c-01d5-41ba-bd38-fedd34d8baaa.png" width="500px" />
 
 2. Dar click en boton **register**
     - Ingresar un nombre de *usuario*
