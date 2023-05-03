@@ -5,7 +5,7 @@
 ***Nota:***
 > Para crear una cuenta en Github se deberá contar con un correo electónico al cual se tenga acceso. 
 
-## Creacion de cuenta Github
+## Creación de cuenta Github
 
 1. Ingresar a la dirección https://github.com/
 1. En la parte superior derecha dar click en el botón **sign up**.
@@ -80,7 +80,7 @@
 14. Dar click en botón de la parte inferior "Generate token".
 15. Copiar y guardar el token generado para su posteior uso.**Es importante guardar el token generado ya que no se volvera a mostrar y en caso de pederlo se tendra que generar uno nuevo repitiendo los pasos**
 
-## Activacion del Two-factor authentication (2FA)
+## Activación de Two-factor authentication (2FA)
 
 1. Ingresar a tu cuenta de Github con el usuario y contraseña.
 2. Selecionar la opción de **settings** en el submenú del icono del *usuario* en la parte superior derecha.
@@ -88,7 +88,7 @@
 4. Dar click en el botón de **Enable two-factor authentication**.
 5. Con una aplicación de authenticator app ( Google, 1Password, Authy, Microsoft Authenticator, etc.) se escanea el **código QR** y se ingresa el código generado por la aplicación.
 6. Se descarga y se guarda los códigos para recupear en caso de no tener acceso a la aplicación.
-7. Dar click en botón de **I have saved mu recovery codes** en la parte inferior derecha.
+7. Dar click en botón de **I have saved my recovery codes** en la parte inferior derecha.
 8. Dar click en botón **done**.
 
 
