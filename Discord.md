@@ -1,16 +1,17 @@
 # Discord
+> Para crear una cuenta en Discord se deberá contar con un correo electónico al cual se tenga acceso.
 
-## Cracion de cuenta en Discord
+## Creación de cuenta en Discord
 1. Ingrear al siguiente link https://discord.com/register
 1. Ingresar los datos requeridos en el formulario.
 
    ![image](https://user-images.githubusercontent.com/132395666/235982864-d4729cb0-da24-42e2-a320-26d56da3b1ff.png)
 
-   - Ingresar un **correo electrónico**.
-   - Ingresar un nombre para el **usuario**.
-   - Ingresar una **contraseña**.
-   - Indicar la **fecha de nacimiento**.
-   - Dar click en **continuar**.
+   1. Ingresar un **correo electrónico**.
+   1. Ingresar un nombre para el **usuario**.
+   1. Ingresar una **contraseña**.
+   1. Indicar la **fecha de nacimiento**.
+   1. Dar click en **continuar**.
    
 1. Verificar no ser robot.
 
@@ -24,7 +25,7 @@
     
 ## Ingrear a Servidor Discord
 
-1. Ingresar a tu *cuenta* de discord en la URL https://discord.com/login
+1. Ingresa a tu ***cuenta*** de discord en la URL https://discord.com/login
 
    ![image](https://user-images.githubusercontent.com/132395666/235974755-287fd35a-8607-4279-b347-b9c4d7b1ab39.png)
 
@@ -32,11 +33,11 @@
   
    ![image](https://user-images.githubusercontent.com/132395666/235975080-9a15219c-b6ba-44d9-9f87-242b25b0f07c.png)
 
-1. Selecionar el botón inferior que dice **Unete al un servidor**.
+1. Selecionar el botón inferior **Unete al un servidor**.
   
    ![image](https://user-images.githubusercontent.com/132395666/235975202-b4b64090-7fda-4ae5-a82f-af853a11b98c.png)
 
-1. Ingresar el url de la invitacion en el input **enlace de invitacion**.
+1. Ingresar el url de la invitación en el input **enlace de invitación**.
 1. Dar click en botón **Unirse al servidor**.
 
    ![image](https://user-images.githubusercontent.com/132395666/235975304-973f89ab-fc4d-4032-8d05-f3f669680c67.png)
