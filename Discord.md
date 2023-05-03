@@ -2,7 +2,7 @@
 
 ## Cracion de cuenta en Discord
 1. Ingrear al siguiente link https://discord.com/register
-2. Ingresar los datos requeridos en el formulario
+1. Ingresar los datos requeridos en el formulario
 
 ![image](https://user-images.githubusercontent.com/132395666/235982864-d4729cb0-da24-42e2-a320-26d56da3b1ff.png)
 
@@ -11,7 +11,9 @@
    - Ingresar una **contraseña**
    - Indicar la **fecha de nacimiento**
    - Dar click en **continuar**
+   
 3. Verificar no ser robot
+3. otro bulet
 
 ![image](https://user-images.githubusercontent.com/132395666/235984027-025892ea-03a9-41cd-a861-b810edd4d194.png)
   
