@@ -59,14 +59,26 @@
 
 1. Ingresar a tu cuenta de Github con el usuario y contraseña.
 2. Selecionar la opción de **settings** en el submenú del icono del usuario en la parte superior derecha.
-3. Selecionar la opción **developer settings** en el barra de lado izquierdo.
-4. Abrir el submenú de *personal access tokens* y selecionar la opción de **tokens(classic)**.
-5. Dar click al botón de *Generate new token* y seleccinar la opción en el submenú de **generate new token (classic)**.
-6. Ingresar una *nota* de la funcion del token.
-7. Indicar el *tiempo en el que expira* el token.
-8. Seleccionar los *permisos* que se le otorgaran a ese token.
-9. Dar click en botón de la parte inferior "Generate token".
-10. Copiar y guardar el token generado para su posteior uso.**Es importante guardar el token generado ya que no se volvera a mostrar y en caso de pederlo se tendra que generar uno nuevo repitiendo los pasos**
+    
+    ![image](https://user-images.githubusercontent.com/132395666/236009821-21f1a01d-ca24-44c0-95fb-808109a88d1d.png)
+
+4. Selecionar la opción **developer settings** en el barra de lado izquierdo.
+
+    ![image](https://user-images.githubusercontent.com/132395666/236010002-ffbedec2-91d4-4984-a983-47f2e10fd718.png)
+
+6. Abrir el submenú de *personal access tokens* y selecionar la opción de **tokens(classic)**.
+
+    ![image](https://user-images.githubusercontent.com/132395666/236010148-37770f90-bf66-4bd7-9c44-86f859e4cb9b.png)
+
+8. Dar click al botón de *Generate new token* y seleccinar la opción en el submenú de **generate new token (classic)**.
+
+    ![image](https://user-images.githubusercontent.com/132395666/236010411-9ae6314b-2ce7-45fc-bb9e-14a066732f77.png)
+
+10. Ingresar una *nota* de la funcion del token.
+12. Indicar el *tiempo en el que expira* el token.
+13. Seleccionar los *permisos* que se le otorgaran a ese token.
+14. Dar click en botón de la parte inferior "Generate token".
+15. Copiar y guardar el token generado para su posteior uso.**Es importante guardar el token generado ya que no se volvera a mostrar y en caso de pederlo se tendra que generar uno nuevo repitiendo los pasos**
 
 ## Activacion del Two-factor authentication (2FA)
 
