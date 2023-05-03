@@ -5,8 +5,8 @@
 1. Ingresar a la direccion https://github.com/
 1. En la parte superior derecha dar click en el boton de "sign up"
 1. Ingresar email para la cuenta
-1. Ingrear password para la cuenta (entre 8 a 15 caracteres)
-1. Ingresar username
+1. Ingresar **password** para la cuenta (entre 8 a 15 caracteres)
+1. Ingresar *username*
 1. Resolver el catcha para validar que no es un robot
 1. Ingresar el codigo de verificacion del correo electronico
 1. Selecionar el tipo de cuenta en este caso se selecciono gratuita
@@ -34,3 +34,14 @@
 6. Se descarga y se guarda los codios para recupear en caso de no tener acceso a la aplicacion
 7. Dar click en boton de "I have saved mu recovery codes" en la parte inferior derecha
 8. dar click en boton done
+
+## Ejemplo
+- uno
+- dos
+- tres
+
+![kisspng-slender-the-eight-pages-slenderman-drawing-fan-ar-slender-man-5ac0c8129d70f7 5609326015225835706449](https://user-images.githubusercontent.com/132395666/235972608-90ea1c13-8bd1-4634-ad3b-55cef2003826.png)
+
+<img src="https://user-images.githubusercontent.com/132395666/235972608-90ea1c13-8bd1-4634-ad3b-55cef2003826.png" width="100px" />
+
+
